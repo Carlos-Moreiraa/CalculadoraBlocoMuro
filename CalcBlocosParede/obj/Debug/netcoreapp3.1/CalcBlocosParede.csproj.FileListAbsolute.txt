@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.exe
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.deps.json
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.runtimeconfig.json
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.dll
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\bin\Debug\netcoreapp3.1\CalcBlocosParede.pdb
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.AssemblyInfo.cs
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.dll
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.pdb
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.genruntimeconfig.cache
+C:\Users\carlo\source\repos\CalcBlocosParede\CalcBlocosParede\obj\Debug\netcoreapp3.1\CalcBlocosParede.FormBlocosCalc.resources
